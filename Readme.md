@@ -17,7 +17,7 @@ Usage:
 
 ### 实测效果demo
 ![demo](ScanPlus.png)
-![demo](scanstatus1.png)
+![demo](ScanPlus_res.png)
 
 
 ### 脚本说明

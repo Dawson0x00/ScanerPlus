@@ -16,7 +16,7 @@ Usage:
 ```
 
 ### 实测效果demo
-![demo](scanstatus.png)
+![demo](ScanPlus.png)
 ![demo](scanstatus1.png)
 
 
